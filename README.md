@@ -1,3 +1,3 @@
 # myfunctions
 
-source user-defined functions on startup
+source user-defined R functions on startup
