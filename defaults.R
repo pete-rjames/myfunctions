@@ -9,9 +9,9 @@ round1 <- function(x) {
 }
 
 round2 <- function(x) {
-  round(x,1)
+  round(x,2)
 }
 
 round3 <- function(x) {
-  round(x,1)
+  round(x,3)
 }
