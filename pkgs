@@ -9,7 +9,7 @@ my.pkgs <- c("acs",
           "installr",
           "knitr",
           "lubridate",
-          "rvest",
+          "rvest", "readr",
           "survey",
           "tidyr", "tidytext")
           
