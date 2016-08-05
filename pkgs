@@ -1,0 +1,16 @@
+# packages to install 
+
+my.pkgs <- c("acs", 
+          "broom", 
+          "choroplethr", 
+          "devtools", "dplyr", "dygraphs",
+          "flexdashboard",
+          "ggplot2",
+          "installr",
+          "knitr",
+          "lubridate",
+          "rvest",
+          "survey",
+          "tidyr", "tidytext")
+          
+install.packges(my.pkgs)
