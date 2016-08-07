@@ -6,11 +6,10 @@ my.pkgs <- c("acs",
           "devtools", "dplyr", "dygraphs",
           "flexdashboard",
           "ggplot2",
-          "installr",
           "knitr",
           "lubridate",
           "rvest", "readr",
           "survey",
           "tidyr", "tidytext")
           
-install.packges(my.pkgs)
+install.packages(my.pkgs)
