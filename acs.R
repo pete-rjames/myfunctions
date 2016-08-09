@@ -13,5 +13,5 @@ ca.cty.pop <- estimate(acs.fetch(geography = ca.cty,
 ca.cty.pop <- data.frame(county = rownames(ca.cty.pop),
                             population = ca.cty.pop[,1])
 rownames(ca.cty.pop) <- NULL
-write.csv(ca.cty.pop, file = "ca_cty_pop.csv")
+save(ca.cty.pop, file = "ca_cty_pop.RData")
   
