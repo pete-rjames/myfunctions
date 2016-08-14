@@ -9,7 +9,7 @@ my.pkgs <- c("acs",
           "knitr",
           "lubridate",
           "rvest", "readr",
-          "survey",
+          "survey", "RSelenium",
           "tidyr", "tidytext")
           
 install.packages(my.pkgs)
