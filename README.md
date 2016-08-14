@@ -1,3 +1,3 @@
 # myfunctions
 
-source user-defined R functions on startup
+User-defined functions, package list, packages test etc. 
