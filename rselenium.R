@@ -1,3 +1,5 @@
 # Rselenium 
+# https://cran.r-project.org/web/packages/RSelenium/vignettes/RSelenium-basics.html
+library(RSelenium)
+checkForServer() # error Check Java installed 
 
-https://www.r-bloggers.com/scraping-with-selenium/
