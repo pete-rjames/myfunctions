@@ -20,7 +20,5 @@ t <- lego_movie %>%
   .[[2]] %>%
   html_table()
 
-# CA DOJ: https://oag.ca.gov/crime/cjsc/stats/adult-probation
-
 # http://stackoverflow.com/questions/14237257/how-to-fill-in-an-online-form-and-get-results-back-in-r
   
